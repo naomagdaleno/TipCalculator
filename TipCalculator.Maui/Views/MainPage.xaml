@@ -43,6 +43,7 @@
                 <Stepper 
                     Grid.Row="1" 
                     Grid.Column="3"/>
+                
                 <HorizontalStackLayout 
                     Grid.Row="2" 
                     Grid.Column="0" 
@@ -61,7 +62,9 @@
                     <Button 
                         Text="15%"
                         WidthRequest="75"/>
+                    
                 </HorizontalStackLayout>
+                
                 <Label 
                     Grid.Row="3" 
                     Grid.Column="0" 
@@ -77,7 +80,9 @@
                     Grid.Row="3" 
                     Grid.Column="3"/>
             </Grid>
+            
         </Border>
+        
         <HorizontalStackLayout 
             Grid.Row="1" 
             Grid.Column="0" 
